@@ -1,6 +1,6 @@
 # cell-dialog
 
-This script contains a simulation of a cell-to-cell dialogue between two hyphae.
+This script contains simulation code for our publication [Synchronization of oscillatory growth prepares fungal hyphae for fusion](https://doi.org/10.1101/2022.09.25.509415).
 
 ## Installation
 
